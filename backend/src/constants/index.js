@@ -1,0 +1,1 @@
+exports.DB_URL = 'mongodb+srv://admin:admin@cluster0.6cpn5.mongodb.net/mern-auth-boilerplate?retryWrites=true&w=majority';
